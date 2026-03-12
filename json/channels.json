@@ -2913,13 +2913,13 @@
   },
   {
     "serial": 225,
-    "id": "zee-bangla-1",
-    "name": "Zee Bangla 1",
+    "id": "zee-bangla",
+    "name": "Zee Bangla",
     "file": "logos/zee-bangla-1.jpg",
     "logo_url": "https://abusaeeidx.github.io/bd-tv-logo/logos/zee-bangla-1.jpg",
     "country": "India",
     "language": "Bangla",
-    "category": "Entertainment",
+    "category": "Indian Bangla",
     "genre": "General Entertainment",
     "country_codes": "IN",
     "logo_shape": "square"

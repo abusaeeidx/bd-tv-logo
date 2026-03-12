@@ -2680,7 +2680,7 @@
   {
     "serial": 207,
     "id": "btv-1",
-    "name": "Btv 1",
+    "name": "BTV",
     "file": "logos/btv-1.jpg",
     "logo_url": "https://abusaeeidx.github.io/bd-tv-logo/logos/btv-1.jpg",
     "country": "Bangladesh",
@@ -2810,7 +2810,7 @@
   {
     "serial": 217,
     "id": "sangsad-tv-1",
-    "name": "Sangsad Tv 1",
+    "name": "Sangsad Tv",
     "file": "logos/sangsad-tv-1.jpg",
     "logo_url": "https://abusaeeidx.github.io/bd-tv-logo/logos/sangsad-tv-1.jpg",
     "country": "Bangladesh",
@@ -2867,7 +2867,7 @@
     "logo_url": "https://abusaeeidx.github.io/bd-tv-logo/logos/star-jalsha.jpg",
     "country": "India",
     "language": "Bangla",
-    "category": "Entertainment",
+    "category": "India Bangla",
     "genre": "General Entertainment",
     "country_codes": "IN",
     "logo_shape": "square"
@@ -4994,7 +4994,7 @@
   {
     "serial": 385,
     "id": "tnt-1",
-    "name": "Tnt 1",
+    "name": "TNT 1",
     "file": "logos/tnt-1.jpg",
     "logo_url": "https://abusaeeidx.github.io/bd-tv-logo/logos/tnt-1.jpg",
     "country": "USA",
@@ -5045,8 +5045,8 @@
   },
   {
     "serial": 389,
-    "id": "willow-2",
-    "name": "Willow 2",
+    "id": "willow",
+    "name": "Willow",
     "file": "logos/willow-hd.jpg",
     "logo_url": "https://abusaeeidx.github.io/bd-tv-logo/logos/willow-hd.jpg",
     "country": "USA",
